@@ -6,9 +6,7 @@ This is a library for polling gpsd in Python3
 Installation
 ------------
 
-Install through pip::
-
-    $ pip3 install gpsd-py3
+Good luck! 🫡
 
 Usage
 -----
